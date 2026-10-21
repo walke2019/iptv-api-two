@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-21 19:19:47,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-10-22 05:21:54,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ,#genre#
 
